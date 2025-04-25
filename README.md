@@ -35,5 +35,5 @@ This Python script processes resumes in PDF format, extracts and structures thei
    job_description_path = "path/to/job_description.txt"  # Job description file
 3. **Run the python script**
 4. **Output**:
-   -The script will create an Excel file (resume_scores.xlsx) in the same folder as the resumes
-   -Contains filename and relevance score (0-1) for each resume
+   - The script will create an Excel file (resume_scores.xlsx) in the same folder as the resumes
+   - Contains filename and relevance score (0-1) for each resume
